@@ -1,0 +1,10 @@
+﻿Account,Item,Event Name/Description,Type of Promotion,Start Date,End Date,Promotional Price,Scan,Lift %,Fixed Fee
+Kroger,Kevin's Yorkshire Tea,BOGO,TPR,7/1/24,7/8/24,$0.99 ,$0.45 ,400.00%,$500.00 
+Kroger,Kevin's Yorkshire Tea,25% Off Discount,TPR,10/1/24,10/29/24,$1.49 ,$0.20 ,40.00%,$0.00 
+Kroger,Kevin's Yorkshire Tea,25% Off Discount,TPR,12/1/24,12/29/24,$1.49 ,$0.20 ,40.00%,$0.00 
+Kroger,Johnny's Egyptian Licorice,25% Off Discount,TPR,7/1/24,7/29/24,$2.49 ,$0.35 ,55.00%,$0.00 
+Kroger,Johnny's Egyptian Licorice,25% Off Discount,TPR,10/1/24,10/29/24,$2.49 ,$0.35 ,55.00%,$0.00 
+Kroger,Johnny's Egyptian Licorice,25% Off Discount,TPR,12/1/24,12/29/24,$2.49 ,$0.35 ,55.00%,$0.00 
+Loblaws,Kevin's Yorkshire Tea,15% Off Discount + Display,TPR,7/1/24,7/8/24,$1.99 ,$0.20 ,300.00%,"$1,000.00 "
+Loblaws,Johnny's Egyptian Licorice,15% Off Discount,TPR,10/1/24,10/29/24,$3.35 ,$0.30 ,20.00%,$100.00 
+Loblaws,Kelsey's Rosehip Tea,15% Off Discount,TPR,12/1/24,12/29/24,$4.29 ,$0.60 ,20.00%,$100.00 
