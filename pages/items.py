@@ -12,7 +12,9 @@ def load_data():
 
 df = load_data()
 
-st.dataframe(
+c = st.container()
+
+c.dataframe(
     df,
     use_container_width=True,
 )
